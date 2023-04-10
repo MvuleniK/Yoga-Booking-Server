@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://<username>:<password>@cluster0.bskgjeo.mongodb.net/?retryWrites=true&w=majority",
+  "JWT_SECRET": "eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTY4MDk4NDMzOCwiaWF0IjoxNjgwOTg0MzM4fQ.pH71Q3iylromZYqx6z6VJYPxpDpa2TCtq4PU9p4NkxA"
+
+}
+
